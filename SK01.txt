@@ -1,4 +1,10 @@
 Version01
 some text
+<<<<<<< HEAD
 it is experiment1
 Added in experiment1
+=======
+master change
+>>>>>>> master
+
+dsvjhsjhd
